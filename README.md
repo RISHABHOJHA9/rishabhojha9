@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhojha9&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhojha9" /> </p>
 
-- 🔭 I’m currently working on **Air pollution Monitoring**
+- 🔭 I’m currently working on **NextGen Code Editor**
 
 - 🌱 I’m currently learning **React.js**
 
